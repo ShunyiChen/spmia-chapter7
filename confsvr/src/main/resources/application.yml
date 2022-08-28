@@ -20,11 +20,11 @@ spring:
       server:
         encrypt.enabled: false
         git:
-          uri: https://github.com/carnellj/config-repo/
-          searchPaths: licensingservice,organizationservice,specialroutesservice,zuulservice,authenticationservice
-          username: native-cloud-apps
-          password: 0ffended
-
+          uri: https://bitbucket.org/shunyi-chen/config-repo/src/master/
+          searchPaths: licensingservice,organizationservice,specialroutesservice,zuulservice
+          username: forerunner2018@hotmail.com
+          password: YMzUdFPQvrHLynPwkMup
+          default-label: master
 
 ####
 #Classpath and file-based solution
